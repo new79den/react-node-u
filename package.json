@@ -1,0 +1,18 @@
+{
+  "name": "react-node-u",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "12.14.0",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/new79den/react-node-u.git",
+  "author": "denis.korniychuk <new79den@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
